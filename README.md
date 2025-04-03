@@ -3,10 +3,10 @@
 </p>
 
 # 💫 About Me:
-Hi, I'm Ishor, a Software Engineering student passionate about FullStack development with Spring Boot and React JS. I have hands-on experience in building full-stack projects. I excel in designing user-centric platforms, integrating secure payment systems, and implementing robust backend solutions.
+Hi, I'm Nishant sah, a Software Engineering student passionate about FullStack development with react,express and React JS. I have hands-on experience in building full-stack projects.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ishordev1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishordev1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishordev1) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ishordev1) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/ishordev1) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nishant.sah.7311) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nissansah/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ishordev1](https://www.linkedin.com/in/nishantkumarsah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ishordev1) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/ishordev1) 
 
 ## 💻 Tools and Technology:
 
