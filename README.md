@@ -6,7 +6,7 @@
 Hi, I'm Ishor, a Software Engineering student passionate about FullStack development with Spring Boot and React JS. I have hands-on experience in building full-stack projects. I excel in designing user-centric platforms, integrating secure payment systems, and implementing robust backend solutions.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ishordev1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishordev1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishordev1) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ishordev1) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/ishordev1) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nissansah1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nissansah1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nissansah1) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nissansah1) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/nissansah1) 
 
 ## 💻 Tools and Technology:
 
@@ -62,16 +62,16 @@ Hi, I'm Ishor, a Software Engineering student passionate about FullStack develop
     <td width="50%">
       <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
-        <a href="https://github.com/ishordev1">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishordev1&count_private=true&show_icons=true&theme=radical&bg_color=121330&title_color=FFD700&text_color=FFFFFF&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        <a href="https://github.com/nissansah1">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=nissansah1&count_private=true&show_icons=true&theme=radical&bg_color=121330&title_color=FFD700&text_color=FFFFFF&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center" style="color: #4F86F7;"><strong>Streak Stats</strong></h3>
       <p align="center">
-        <a href="https://github.com/ishordev1">
-          <img align="center" src="https://streak-stats.demolab.com?user=ishordev1&theme=radical&background=121330&fire=FFD700&ring=FFD700&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=FFFFFF" alt="Streak Stats" />
+        <a href="https://github.com/nissansah1">
+          <img align="center" src="https://streak-stats.demolab.com?user=nissansah1&theme=radical&background=121330&fire=FFD700&ring=FFD700&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=FFFFFF" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -80,8 +80,8 @@ Hi, I'm Ishor, a Software Engineering student passionate about FullStack develop
     <td width="50%">
       <h3 align="center" style="color: #4F86F7;"><strong>Top Languages</strong></h3>
       <p align="center">
-        <a href="https://github.com/ishordev1">
-          <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishordev1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=121330&title_color=FFD700&text_color=FFFFFF" alt="Top Languages" />
+        <a href="https://github.com/nissansah1">
+          <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nissansah1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=121330&title_color=FFD700&text_color=FFFFFF" alt="Top Languages" />
         </a>
       </p>
     </td>
@@ -89,7 +89,7 @@ Hi, I'm Ishor, a Software Engineering student passionate about FullStack develop
       <h3 align="center" style="color: #4F86F7;"><strong>Profile Views</strong></h3>
       <p align="center">
         <a href="https://visitcount.itsvg.in">
-          <img width="100%" align="center" src="https://komarev.com/ghpvc/?username=ishordev1&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
+          <img width="100%" align="center" src="https://komarev.com/ghpvc/?username=nissansah1&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
         </a>
       </p>
     </td>
@@ -98,7 +98,7 @@ Hi, I'm Ishor, a Software Engineering student passionate about FullStack develop
     <td colspan="2" align="center">
       <h3 style="color: #FFD700;">🐍 Growing with Every Line of Code!!</h3>
       <p align="center">
-        <img src="https://github.com/ishordev1/ishordev1/blob/output/github-snake.svg" alt="Snake animation" />
+        <img src="https://github.com/nissansah1/nissansah1/blob/output/github-snake.svg" alt="Snake animation" />
       </p>
     </td>
   </tr>
@@ -112,8 +112,8 @@ Hi, I'm Ishor, a Software Engineering student passionate about FullStack develop
 <br>
 <br>
 <p align="center">
-  <a href="https://github.com/ishordev1">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishordev1&theme=merko" alt="Ishor's GitHub Contribution"/>
+  <a href="https://github.com/nissansah1">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nissansah1&theme=merko" alt="Ishor's GitHub Contribution"/>
   </a>
 </p>
 
