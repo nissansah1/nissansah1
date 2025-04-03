@@ -23,32 +23,31 @@ Hi, I'm Nishant sah, a Software Engineering student passionate about FullStack d
       <div align="center">
       <br>
         <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
         <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
         <br>
-        <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+
         <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
         <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
         <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
         <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+
         <br>
         <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Swagger-%23Clojure.svg?style=for-the-badge&logo=swagger&logoColor=white" />
+
         <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+
         <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-        <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+
       </div>
     </td>
   </tr>
@@ -63,14 +62,14 @@ Hi, I'm Nishant sah, a Software Engineering student passionate about FullStack d
       <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/ishordev1">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishordev1&count_private=true&show_icons=true&theme=radical&bg_color=121330&title_color=FFD700&text_color=FFFFFF&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=nissansah1&count_private=true&show_icons=true&theme=radical&bg_color=121330&title_color=FFD700&text_color=FFFFFF&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center" style="color: #4F86F7;"><strong>Streak Stats</strong></h3>
       <p align="center">
-        <a href="https://github.com/ishordev1">
+        <a href="https://github.com/nissansah1">
           <img align="center" src="https://streak-stats.demolab.com?user=ishordev1&theme=radical&background=121330&fire=FFD700&ring=FFD700&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=FFFFFF" alt="Streak Stats" />
         </a>
       </p>
@@ -81,7 +80,7 @@ Hi, I'm Nishant sah, a Software Engineering student passionate about FullStack d
       <h3 align="center" style="color: #4F86F7;"><strong>Top Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/ishordev1">
-          <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishordev1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=121330&title_color=FFD700&text_color=FFFFFF" alt="Top Languages" />
+          <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nissansah1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=121330&title_color=FFD700&text_color=FFFFFF" alt="Top Languages" />
         </a>
       </p>
     </td>
@@ -98,7 +97,7 @@ Hi, I'm Nishant sah, a Software Engineering student passionate about FullStack d
     <td colspan="2" align="center">
       <h3 style="color: #FFD700;">🐍 Growing with Every Line of Code!!</h3>
       <p align="center">
-        <img src="https://github.com/ishordev1/ishordev1/blob/output/github-snake.svg" alt="Snake animation" />
+        <img src="https://github.com/nissansah1/nissansah1/blob/output/github-snake.svg" alt="Snake animation" />
       </p>
     </td>
   </tr>
@@ -112,8 +111,8 @@ Hi, I'm Nishant sah, a Software Engineering student passionate about FullStack d
 <br>
 <br>
 <p align="center">
-  <a href="https://github.com/ishordev1">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishordev1&theme=merko" alt="Ishor's GitHub Contribution"/>
+  <a href="https://github.com/nissansah1">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nissansah1&theme=merko" alt="nissan's GitHub Contribution"/>
   </a>
 </p>
 
