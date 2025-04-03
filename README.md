@@ -98,7 +98,7 @@ Hi, I'm Nissan, a Software Engineering student passionate about FullStack develo
     <td colspan="2" align="center">
       <h3 style="color: #FFD700;">🐍 Growing with Every Line of Code!!</h3>
       <p align="center">
-        <img src="https://github.com/nissansah1/nissansah1/snake.yml" alt="Snake animation" />
+        <img src="https://github.com/nissansah1/nissansah1/github-snake.svg" alt="Snake animation" />
       </p>
     </td>
   </tr>
